@@ -1,4 +1,4 @@
-# ASSIGNMENT1_PYTHON
+# FIRST PROGRAMS_PYTHON
 Programs using python 
 Program 1: PRIME NUMBER CHECKING
 Checks whether a number is prime using loops and conditional statements.
